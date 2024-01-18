@@ -1,4 +1,4 @@
-<h1>Treasure Game</h1>
+<h1>Treasure Island Game</h1>
 
 <h2>Description</h2>
 Adventure game. Written in Python!
